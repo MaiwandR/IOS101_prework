@@ -21,12 +21,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 ## App Brainstorming (Step 4)
-[] Meetup: Event planning app
+-[ ] Meetup: Event planning app
   -The option to click maps and get redirected to Apple maps
-[] BeReal: Social Media App
+-[ ] BeReal: Social Media App
   - The feature where the calendar is filled with small pics of the posts you've made on each day.
-[] Pinterest: Picture media app
+-[ ] Pinterest: Picture media app
   -The FYP has pictures that are different sizes and clean-fitting. It gives the page a refreshing look and makes it look interactive.
+
+**My App Idea**
+I want to make a trip and travel planning application that helps people asynchronously set timers check locations and set checkpoints for their trips and plans.
+I want the app to be able to send notifications and also help the user track the locations of their fellow travelers.
+
+**SYNCTRIP**
 ## Notes
 
 Describe any challenges encountered while building the app.
