@@ -21,11 +21,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 ## App Brainstorming (Step 4)
--[ ] Meetup: Event planning app
-  -The option to click maps and get redirected to Apple maps
--[ ] BeReal: Social Media App
+- Meetup: Event planning app
+  he option to click maps and get redirected to Apple maps
+- BeReal: Social Media App
   - The feature where the calendar is filled with small pics of the posts you've made on each day.
--[ ] Pinterest: Picture media app
+- Pinterest: Picture media app
   -The FYP has pictures that are different sizes and clean-fitting. It gives the page a refreshing look and makes it look interactive.
 
 **My App Idea**
