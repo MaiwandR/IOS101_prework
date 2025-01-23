@@ -1,6 +1,6 @@
 # Prework - *Colorize*
 
-Submitted by: **Maiwand Raheem*
+Submitted by: **Maiwand Raheem**
 
 **Colorize** is an app that changes a bland profile window into a colorful and organized profile page that has your school logo as well as colorizes your text to match the background
 
